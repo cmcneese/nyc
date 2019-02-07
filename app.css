@@ -3,3 +3,14 @@
     margin: 0;
     padding: 0;
 }
+
+.header {
+    background-color: #000000;
+    height: 25vh;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.header-image {
+    align-items: center;
+}
